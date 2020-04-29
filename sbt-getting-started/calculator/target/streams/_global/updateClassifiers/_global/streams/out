@@ -1,0 +1,3 @@
+[debug] "not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/Users/pboonyasup/Documents/PLAYGROUND/ScalaLearn/NewSBt/hello-world-template/"), "calculator")...
+[debug] Done updating ProjectRef(uri("file:/Users/pboonyasup/Documents/PLAYGROUND/ScalaLearn/NewSBt/hello-world-template/"), "calculator")
